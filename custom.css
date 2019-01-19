@@ -1,0 +1,67 @@
+.body {
+    font-family: Arial, sans-serif;
+}
+.reveal {
+    font-family: Arial, sans-serif;
+}
+.reveal h1, .reveal h2, .reveal h3, .reveal h4, .reveal h5, .reveal h6 {
+    font-family: Arial, sans-serif;
+    color: black;
+}
+
+.reveal_transition = none
+
+/*
+:root {
+  --color-1: #009D82 ;
+  --color-2: #00493d ;
+}
+
+.reveal .progress span {
+  background: var(--color-1);
+}
+
+.reveal .slide-number {
+  color: var(--color-1); 
+}
+
+.reveal a {
+  color: var(--color-1);
+}
+
+.reveal a:hover {
+  color: var(--color-2);
+  text-shadow: none;
+  border: none; }
+
+.reveal a:hover img {
+  border-color: var(--color-1);
+}
+*/
+/*********************************************
+ * NAVIGATION CONTROLS
+ *********************************************/
+/*.reveal .controls div.navigate-left, .reveal .controls div.navigate-left.enabled {
+  border-right-color: var(--color-1); }
+
+.reveal .controls div.navigate-right, .reveal .controls div.navigate-right.enabled {
+  border-left-color: var(--color-1); }
+
+.reveal .controls div.navigate-up, .reveal .controls div.navigate-up.enabled {
+  border-bottom-color: var(--color-1); }
+
+.reveal .controls div.navigate-down, .reveal .controls div.navigate-down.enabled {
+  border-top-color: var(--color-1); }
+
+.reveal .controls div.navigate-left.enabled:hover {
+  border-right-color: var(--color-2); }
+
+.reveal .controls div.navigate-right.enabled:hover {
+  border-left-color: var(--color-2); }
+
+.reveal .controls div.navigate-up.enabled:hover {
+  border-bottom-color: var(--color-2); }
+
+.reveal .controls div.navigate-down.enabled:hover {
+  border-top-color: var(--color-2); }
+*/
