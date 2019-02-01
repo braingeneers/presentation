@@ -1,7 +1,7 @@
 # presentation
 Braingeneers IPython presentation template
 
-Use:
+Usage:
 
 ```
 jupyter nbconvert braingeneers.ipynb --to slides --post serve
